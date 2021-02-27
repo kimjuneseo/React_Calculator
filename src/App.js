@@ -50,6 +50,7 @@ class App extends React.Component {
             Clear
           </button>
         </div>
+        <div></div>
       </div>
     );
   }
